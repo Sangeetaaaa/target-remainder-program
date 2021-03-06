@@ -1,0 +1,8 @@
+1. On every sunday the program asks me for adding my aims for next week 
+    a. Basically it will send me a message on my phone number on every sunday evening 
+       with the link for input 
+    b. Once I click to the link, I will be directed to my code on code box, there i need to add
+       the targets for next week
+    c. those targets will be added to my cloud google sheet through an api
+    
+2. Every morning the program will send me a message, reminding me of my targets.
